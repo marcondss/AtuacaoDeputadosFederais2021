@@ -14,7 +14,12 @@
   - Bohn Gass do PT, com 1324 propostas de sua autoria.
   - Danilo Cabral do PSB com 1188 propostas de sua autoria.
   - Wolney Queiroz do PDT com 1118 propostas de sua autoria.
-[GRÁFICO DOS 10 MAIS PROPOSTAS LEGISLATIVAS]
+[GRÁFICO DOS 10 MAIS PROPOSTAS LEGISLATIVAS
+
+<p align="center">
+  <img src="/images/frequencia.png" width="500" title="hover text">
+</p>
+
 
 ⚠ Durante as análises foi possível observar que houveram 5 deputados que não tiveram nenhuma proposta de sua autoria:
 - Nelho Bezerra do PROS;
