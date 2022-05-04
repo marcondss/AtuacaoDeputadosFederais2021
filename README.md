@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="/autorias.png" width="700" title="hover text">
+  <img src="/autorias.png" width="1500" title="hover text">
 </p>
 
 
@@ -39,7 +39,7 @@
   - Carmen Zanotto do CIDADANIA com 96 propostas relatadas.
 
 <p align="center">
-  <img src="/relatadas.png" width="500" title="hover text">
+  <img src="/relatadas.png" width="1500" title="hover text">
 </p>
 
 
@@ -49,6 +49,6 @@ Com auxílio do gráfico abaixo, podemos constatar que uma grande dos partidos f
 O partido REDE teve propostas relatadas e de autorias próximas de 0, contudo é esperado pois somente um deputado representa o partido na CD.*
 
 <p align="center">
-  <img src="/autoriarelatadas.png" width="500" title="hover text">
+  <img src="/autoriarelatadas.png" width="1500" title="hover text">
 </p>
 
