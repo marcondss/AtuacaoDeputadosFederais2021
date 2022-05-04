@@ -14,10 +14,10 @@
   - Bohn Gass do PT, com 1324 propostas de sua autoria.
   - Danilo Cabral do PSB com 1188 propostas de sua autoria.
   - Wolney Queiroz do PDT com 1118 propostas de sua autoria.
-[GRÁFICO DOS 10 MAIS PROPOSTAS LEGISLATIVAS
+
 
 <p align="center">
-  <img src="/images/frequencia.png" width="500" title="hover text">
+  <img src="/autorias.png" width="500" title="hover text">
 </p>
 
 
@@ -37,10 +37,18 @@
   - Kim Kataguiri do UNIÃO com 98 propostas relatadas.
   - Luis Miranda do REPUBLICANOS com 96 propostas relatadas.
   - Carmen Zanotto do CIDADANIA com 96 propostas relatadas.
-[GRÁFICO DOS 10 MAIS PROPOSTAS LEGISLATIVAS RELATADAS]
+
+<p align="center">
+  <img src="/relatadas.png" width="500" title="hover text">
+</p>
 
 
 *Em relação os partidos, a média de propostas relatadas foi 306, a quantidade minima de propostas relatadas foram 12 e a maior quantidade de propostas relatadas por partido foram 1820, do PSD.
 A média de propostas de autoria foram 2822, a quantidade minima de propostas autoria foram 222 e a maior quantidade de propostas relatadas por partido foram 17352, do PT.
 Com auxílio do gráfico abaixo, podemos constatar que uma grande dos partidos ficaram abaixo da média em relação as propostas de autoria e propostas relatadas. O PT, teve destaque na quantidade de propostas de autoria, teve um pouco mais de 600 propostas relatadas. Já o PSD, que teve destaque na quantidade de propostas relatadas, criou cerca de 5000 propostas.
 O partido REDE teve propostas relatadas e de autorias próximas de 0, contudo é esperado pois somente um deputado representa o partido na CD.*
+
+<p align="center">
+  <img src="/autoriarelatadas.png" width="500" title="hover text">
+</p>
+
