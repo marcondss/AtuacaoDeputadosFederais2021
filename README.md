@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="/autorias.png" width="1500" title="hover text">
+  <img src="/autorias.png" width="2000" title="hover text">
 </p>
 
 
@@ -39,7 +39,7 @@
   - Carmen Zanotto do CIDADANIA com 96 propostas relatadas.
 
 <p align="center">
-  <img src="/relatadas.png" width="1500" title="hover text">
+  <img src="/relatadas.png" width="2000" title="hover text">
 </p>
 
 
