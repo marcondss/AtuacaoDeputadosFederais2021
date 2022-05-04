@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="/autorias.png" width="500" title="hover text">
+  <img src="/autorias.png" width="700" title="hover text">
 </p>
 
 
